@@ -1,0 +1,85 @@
+{
+    "ListeDesActions":{
+        "Action-1":{
+            "cout_de_laction" : 20,
+            "perf" : 0.05
+        },
+        "Action-2":{
+            "cout_de_laction" : 30,
+            "perf" : 0.1
+        },
+        "Action-3":{
+            "cout_de_laction" : 50,
+            "perf" : 0.15
+        },
+        "Action-4":{
+            "cout_de_laction" : 70,
+            "perf" : 0.2
+        },
+        "Action-5":{
+            "cout_de_laction" : 60,
+            "perf" : 0.17
+        },
+        "Action-6":{
+            "cout_de_laction" : 80,
+            "perf" : 0.25
+        },
+        "Action-7":{
+            "cout_de_laction" : 22,
+            "perf" : 0.07
+        },
+        "Action-8":{
+            "cout_de_laction" : 26,
+            "perf" : 0.11
+        },
+        "Action-9":{
+            "cout_de_laction" : 48,
+            "perf" : 0.13
+        },
+        "Action-10":{
+            "cout_de_laction" : 34,
+            "perf" : 0.27
+        },
+        "Action-11":{
+            "cout_de_laction" : 42,
+            "perf" : 0.17
+        },
+        "Action-12":{
+            "cout_de_laction" : 110,
+            "perf" : 0.09
+        },
+        "Action-13":{
+            "cout_de_laction" : 38,
+            "perf" : 0.23
+        },
+        "Action-14":{
+            "cout_de_laction" : 14,
+            "perf" : 0.01
+        },
+        "Action-15":{
+            "cout_de_laction" : 18,
+            "perf" : 0.03
+        },
+        "Action-16":{
+            "cout_de_laction" : 8,
+            "perf" : 0.08
+        },
+        "Action-17":{
+            "cout_de_laction" : 4,
+            "perf" : 0.12
+        },
+        "Action-18":{
+            "cout_de_laction" : 10,
+            "perf" : 0.14
+        },
+        "Action-19":{
+            "cout_de_laction" : 24,
+            "perf" : 0.21
+        },
+        "Action-20":{
+            "cout_de_laction" : 114,
+            "perf" : 0.18
+        }
+
+    }
+}
